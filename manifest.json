@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "Sabelotodo",
+    "version": "1.0",
+    "description": "A dictionary tool that provides simple definitions of words on any webpage",
+    "icons": {
+        "48": "icon.png"
+    },
+    "action": {
+        "default_icon": "icon.png",
+        "default_title": "Sabelotodo",
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    },
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "http://*/*",
+        "https://*/*",
+        "tabs",
+        "storage",
+        "http://localhost/*",
+        "https://localhost/*"
+    ]
+}
