@@ -1,7 +1,8 @@
-Sabelotodo Chrome Extension
+# Sabelotodo Chrome Extension
+
 The Sabelotodo Chrome extension is a dictionary tool that provides simple definitions of words on any webpage using the OpenAI API. This extension allows users to select a word on any webpage and see a pop-up above the word with a simple definition and one example sentence. The extension uses modern web development technologies such as JavaScript, HTML, and CSS.
 
-Features
+## Features
 The Sabelotodo Chrome extension provides the following features:
 
 Simple definitions of words on any webpage using the OpenAI API
@@ -9,7 +10,8 @@ One example sentence to help provide context for the definition
 Easy-to-use pop-up display above selected words
 Ability to customize the look and feel of the pop-up display with CSS
 Installation and Usage
-Installation
+
+## Installation
 To install the Sabelotodo Chrome extension, follow these steps:
 
 Clone or download the project from the GitHub repository.
