@@ -50,8 +50,7 @@ To modify and develop the Sabelotodo Chrome extension, follow these steps:
 The Sabelotodo Chrome extension was developed by Balseros. The extension uses the OpenAI API for providing simple definitions of words.
 
 
-# Español <a name="spanish"></a>
-# Extensión de Chrome Sabelotodo :notebook: 
+# Extensión de Chrome Sabelotodo :notebook: <a name="spanish"></a>
 La extensión de Chrome Sabelotodo es una herramienta de diccionario que proporciona definiciones simples de palabras en cualquier página web utilizando la API de OpenAI. Esta extensión permite a los usuarios seleccionar una palabra en cualquier página web y ver una ventana emergente sobre la palabra con una definición simple y una oración de ejemplo. La extensión utiliza tecnologías modernas de desarrollo web como JavaScript, HTML y CSS.
 
 ## Características
