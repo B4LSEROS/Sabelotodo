@@ -3,7 +3,7 @@ const { browserAction } = chrome;
 function fetchDefinition(word) {
     const apiUrl = `https://owlbot.info/api/v4/dictionary/${word}`;
     const headers = {
-        Authorization: `Token 274ab34a173727032ecca66b78d6c7dfe2bd7331`
+        Authorization: `Token YOUROPENAIKEY`
     };
     return fetch(apiUrl, { headers })
         .then(response => {
